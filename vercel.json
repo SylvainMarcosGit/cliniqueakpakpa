@@ -1,0 +1,13 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/" },
+    { "src": "/services", "dest": "/" },
+    { "src": "/medecins", "dest": "/" },
+    { "src": "/products/:productId", "dest": "/" },
+    { "src": "/horaires", "dest": "/" },
+    { "src": "/urgences", "dest": "/" },
+    { "src": "/rendez-vous", "dest": "/" },
+    { "src": "/contact", "dest": "/" }
+
+  ]
+}
