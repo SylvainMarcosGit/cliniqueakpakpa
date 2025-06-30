@@ -63,9 +63,9 @@ const Home = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8 animate-fade-in">
               <h1 className="text-4xl lg:text-6xl font-bold leading-tight">
-                Clinique AKPAKPA
+                Clinique 
                 <span className="block text-2xl lg:text-3xl font-normal text-blue-200 mt-2">
-                  LE BELIER
+                  Votre santé, notre mission
                 </span>
               </h1>
               <p className="text-xl lg:text-2xl text-blue-100">

@@ -17,8 +17,8 @@ const Footer = () => {
                 </svg>
               </div>
               <div>
-                <h3 className="text-lg font-bold">Clinique AKPAKPA</h3>
-                <p className="text-blue-200">LE BELIER</p>
+                <h3 className="text-lg font-bold">Clinique</h3>
+                <p className="text-blue-200"> </p>
               </div>
             </div>
             <p className="text-blue-100">
@@ -76,7 +76,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-blue-700 mt-8 pt-8 text-center text-blue-200">
-          <p>&copy; 2024 Clinique AKPAKPA LE BELIER. Tous droits réservés.</p>
+          <p>&copy; 2025 Clinique. Tous droits réservés.</p>
         </div>
       </div>
     </footer>

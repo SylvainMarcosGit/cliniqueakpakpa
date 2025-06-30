@@ -207,7 +207,7 @@ const Contact = () => {
                     <MapPin className="h-12 w-12 text-medical-blue mx-auto mb-4" />
                     <p className="text-medical-blue font-semibold">Carte interactive</p>
                     <p className="text-medical-gray-medium text-sm">
-                      Clinique AKPAKPA LE BELIER<br />
+                      Clinique<br />
                       Cotonou, Bénin
                     </p>
                   </div>

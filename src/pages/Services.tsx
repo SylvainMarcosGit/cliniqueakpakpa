@@ -98,7 +98,7 @@ const Services = () => {
           <div className="text-center animate-fade-in">
             <h1 className="text-5xl font-bold mb-6">Nos Services Médicaux</h1>
             <p className="text-xl text-blue-200 max-w-3xl mx-auto">
-              La Clinique AKPAKPA LE BELIER offre une gamme complète de services médicaux 
+              La Clinique offre une gamme complète de services médicaux 
               avec des équipements modernes et une équipe de professionnels expérimentés.
             </p>
           </div>

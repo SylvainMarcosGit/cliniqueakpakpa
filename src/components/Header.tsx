@@ -52,8 +52,8 @@ const Header = () => {
               </svg>
             </div>
             <div>
-              <h1 className="text-xl font-bold text-medical-blue">Clinique AKPAKPA</h1>
-              <p className="text-sm text-medical-gray-medium">LE BELIER</p>
+              <h1 className="text-xl font-bold text-medical-blue">Clinique</h1>
+              <p className="text-sm text-medical-gray-medium"> </p>
             </div>
           </Link>
 
