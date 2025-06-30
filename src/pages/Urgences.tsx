@@ -277,7 +277,7 @@ const Urgences = () => {
                   <MapPin className="h-8 w-8" />
                   <div>
                     <h3 className="text-xl font-bold">Adresse</h3>
-                    <p className="text-green-100">Quartier Akpakpa, Rue du Bélier<br />Cotonou, Bénin</p>
+                    <p className="text-green-100">...<br />Cotonou, Bénin</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-4">

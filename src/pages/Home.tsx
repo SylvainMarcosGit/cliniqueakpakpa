@@ -108,7 +108,7 @@ const Home = () => {
                   <div className="flex items-center space-x-3">
                     <MapPin className="h-6 w-6" />
                     <div>
-                      <p className="font-semibold">Akpakpa, Cotonou</p>
+                      <p className="font-semibold">Cotonou, Bénin</p>
                       <p className="text-blue-200">Facilement accessible</p>
                     </div>
                   </div>

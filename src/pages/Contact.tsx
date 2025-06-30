@@ -152,7 +152,7 @@ const Contact = () => {
                     <div>
                       <h3 className="font-semibold text-medical-blue">Adresse</h3>
                       <p className="text-medical-gray-medium">
-                        Quartier Akpakpa, Rue du Bélier<br />
+                       <br />
                         Cotonou, République du Bénin
                       </p>
                     </div>
@@ -178,8 +178,8 @@ const Contact = () => {
                     <div>
                       <h3 className="font-semibold text-medical-blue">Email</h3>
                       <p className="text-medical-gray-medium">
-                        contact@cliniqueakpakpa.com<br />
-                        info@cliniqueakpakpa.com
+                        contact@clinique.com<br />
+                        info@clinique.com
                       </p>
                     </div>
                   </div>

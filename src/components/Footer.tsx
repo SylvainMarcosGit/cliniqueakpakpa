@@ -61,11 +61,11 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5" />
-                <span>contact@cliniqueakpakpa.com</span>
+                <span>contact@clinique.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5" />
-                <span>Akpakpa, Cotonou, Bénin</span>
+                <span>Cotonou, Bénin</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Clock className="h-5 w-5" />
